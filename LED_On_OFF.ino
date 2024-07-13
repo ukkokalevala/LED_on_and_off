@@ -1,5 +1,5 @@
 // Define the pin where the LED is connected
-const int ledPin = 13;
+const int ledPin = D1;
 
 void setup() {
   // Set the LED pin as an output
